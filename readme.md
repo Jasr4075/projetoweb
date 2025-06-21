@@ -1,3 +1,14 @@
+# Como clonar o repositório
+
+1. Clone o repositório para sua máquina local:
+    ```bash
+    git clone https://github.com/Jasr4075/projetoweb.git
+    ```
+2. Acesse a pasta do projeto:
+    ```bash
+    cd seu-repositorio
+    ```
+
 # Como rodar o projeto
 
 ## Backend (`projetoweb-back`)
